@@ -21,29 +21,29 @@ Security+, CySA+ certified. Experienced in supporting users, resolving technical
 
 |  Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Account Lockout Policy |<a href="https://github.com/user-attachments/files/22069554/Screenshot.2025-08-30.at.9.03.47.PM.7.59.28.PM.tiff">Group Policy Management Lab</a> |
-| Drive Mapping(1)| <a href="https://github.com/user-attachments/assets/bd61c18d-2492-49c0-82e6-bbb860cd75a9">Group Policy Management Lab</a>|
-| Drive Mapping(2)| <a href="https://github.com/user-attachments/assets/2ddec1a7-8e66-44de-a159-c3809ea7c8b1">Group Policy Management Lab</a>|
-| Password Policy Step 1: Open Group Policy Mangement. Right click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain and Link it here. Name it Password Policy Test, then click Ok.| <a href="https://github.com/user-attachments/assets/2a62c8e7-3e58-42fb-b575-5d381a7cb08e">Group Policy Management Lab</a>|
-| Password Policy Step 2: Right-click Password Policy Test → Edit. Navigate to: Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Password Policy. Double-click Minimum password length, check Define this policy setting, and set it to 12 characters. Click Apply → OK.| <a href="https://github.com/user-attachments/assets/e5433a4c-3d9d-4e9b-bfb2-858bf59105aa">Group Policy Management Lab</a>|
-| Removable Storage Access Step 1: Open Group Policy Management. Right-click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain, and Link it here. Name it Disable USB devices, then click OK.| <a href="https://github.com/user-attachments/assets/8f9141d4-2a02-41b3-bb66-02dd31bd8d4a">Group Policy Management Lab</a>|
-| Removable Storage Access Step 2: Right-click Disable USB devices → Edit. In the Group Policy Management Editor, go to Computer Configuration → Policies → Administrative Templates → System → Removable Storage Access. Double-click All Removable Storage classes: Deny all access, select Enabled, then click Apply and OK. | <a href="https://github.com/user-attachments/assets/6ae225c8-86be-44e5-b519-22495e7c8b6b">Group Policy Management Lab</a>|
-| Restrict Access To Control Panel Step 1: Open Group Policy Management. Right-click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain, and Link it here. Name it Restrict Control Panel, then click OK.  | <a href="https://github.com/user-attachments/assets/bc397493-4ca4-4c1a-b3ab-b1b935867f52">Group Policy Management Lab</a>|
-| Restrict Access To Control Panel Step 2: Right-click Restrict Control Panel → click Edit. In the Group Policy Management Editor, navigate to: User Configuration → Policies → Administrative Templates → Control Panel. Double-click Prohibit access to Control Panel and PC settings, select Enabled, then click Apply and OK.| <a href="https://github.com/user-attachments/assets/bf3fca65-cec3-4eff-9ab0-ab09ceaf72e3">Group Policy Management Lab|
-| Created Users | <a href="https://github.com/FillyLoyal/pictures/blob/main/Creating%20a%20user.png">Active Directory|
-| Created Security Groups | <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
-| Created Organizational Units | <a href="https://github.com/FillyLoyal/pictures/blob/main/Created%20a%20security%20groups.png">Active Directory|
-| Creating a Ticket | <a href="https://github.com/user-attachments/assets/0fc1fc08-02d1-4e85-84ff-f80f3baeac62">Ticketing System</a>|
-| Ticket Closure Checklist | <a href="https://github.com/user-attachments/assets/7bb80191-2b3b-4494-be4f-52087855758f">Ticketing System</a>|
-| Ticket Escalation Process(1) | <a href="https://github.com/user-attachments/assets/026bae81-f4ae-40d5-a178-fa97d751565e">Ticketing System</a>|
-| Ticket Escalation Process(2) | <a href="https://github.com/user-attachments/assets/cd39a35b-c35f-4467-a2da-6196839cadfb">Ticketing System</a>|
-|RDP (1)| <a href="https://github.com/user-attachments/assets/db0b93ae-b271-4831-9d42-5fee5a3f6be3">Remote Desktop Support</a>|
-|RDP (2)| <a href="https://github.com/user-attachments/assets/7b4868ba-9cd0-4ca9-a068-581329a0875a">Remote Desktop Support</a>|
-|RDP (3)| <a href="https://github.com/user-attachments/assets/2fe86415-3bae-4fcd-84f0-94d0babc678a">Remote Desktop Support</a>|
-|RDP (4)| <a href="https://github.com/user-attachments/assets/bb99b66c-9d55-4478-8e70-fe1fea368ca3">Remote Desktop Support</a>|
-|RDP (5)| <a href="https://github.com/user-attachments/assets/84981f48-d19d-4f43-88c1-a28ed528b71b">Remote Desktop Support</a>|
-|RDP (6)| <a href="https://github.com/user-attachments/assets/f8d23a9d-1501-4b47-a6d2-b85f41647137">Remote Desktop Support</a>|
-|RDP (7)| <a href="https://github.com/user-attachments/assets/e202ab28-7d52-4726-9465-c95a6c5ec424">Remote Desktop Support</a>|
+| Account Lockout Policy:  Open Group Policy Management Editor and navigate to: Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Account Lockout Policy. Then Double-click “Allow Administrator account lockout” → Select Enabled → Click OK. |<a href="https://github.com/user-attachments/files/23831023/Screenshot.2025-08-30.at.9.03.47.PM.7.59.28.PM.tiff">Group Policy Management Lab</a> |
+| Drive Mapping(1)| <a href="https://github.com/user-attachments/assets/f022f6c9-5e30-4ece-ac1a-34aabf8602f6">Group Policy Management Lab</a>|
+| Drive Mapping(2)| <a href="https://github.com/user-attachments/assets/e49611d6-6356-4a43-97d3-c481e49a3b72">Group Policy Management Lab</a>|
+| Password Policy Step 1: Open Group Policy Mangement. Right click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain and Link it here. Name it Password Policy Test, then click Ok.| <a href="https://github.com/user-attachments/assets/aea7c6db-d7b1-4e49-99fd-0433c07d3d0e">Group Policy Management Lab</a>|
+| Password Policy Step 2: Right-click Password Policy Test → Edit. Navigate to: Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Password Policy. Double-click Minimum password length, check Define this policy setting, and set it to 12 characters. Click Apply → OK.| <a href="https://github.com/user-attachments/assets/25d6ca3a-c9cb-45ae-8ab1-11dee942f6c8">Group Policy Management Lab</a>|
+| Removable Storage Access Step 1: Open Group Policy Management. Right-click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain, and Link it here. Name it Disable USB devices, then click OK.| <a href="https://github.com/user-attachments/assets/3cdc8b39-088c-441f-bccd-803c56946541">Group Policy Management Lab</a>|
+| Removable Storage Access Step 2: Right-click Disable USB devices → Edit. In the Group Policy Management Editor, go to Computer Configuration → Policies → Administrative Templates → System → Removable Storage Access. Double-click All Removable Storage classes: Deny all access, select Enabled, then click Apply and OK. | <a href="https://github.com/user-attachments/assets/222d5589-935e-444d-afdf-0d3239136e61">Group Policy Management Lab</a>|
+| Restrict Access To Control Panel Step 1: Open Group Policy Management. Right-click your domain (e.g., NetworkerChuck.local) → Create a GPO in this domain, and Link it here. Name it Restrict Control Panel, then click OK.  | <a href="https://github.com/user-attachments/assets/713b32b3-33a6-4bd5-b9eb-fc8e8820a1f1">Group Policy Management Lab</a>|
+| Restrict Access To Control Panel Step 2: Right-click Restrict Control Panel → click Edit. In the Group Policy Management Editor, navigate to: User Configuration → Policies → Administrative Templates → Control Panel. Double-click Prohibit access to Control Panel and PC settings, select Enabled, then click Apply and OK.| <a href="https://github.com/user-attachments/assets/a9b6bc7b-15b0-4bff-81a3-363062f4a28a">Group Policy Management Lab|
+| Created Users | <a href="https://github.com/user-attachments/assets/23831916-a9f7-4e2c-b0e9-aa38a4478063">Active Directory|
+| Created Security Groups | <a href="https://github.com/user-attachments/assets/5c7eb8c2-4018-4d32-b2d2-0610cbd04864">Active Directory|
+| Created Organizational Units | <a href="https://github.com/user-attachments/assets/487686ff-b7bc-458c-805e-20d112879945">Active Directory|
+| Creating a Ticket | <a href="https://github.com/user-attachments/assets/8781a7fc-a36c-4092-a1cc-97017a03700b">Ticketing System</a>|
+| Ticket Closure Checklist | <a href="https://github.com/user-attachments/assets/4c6fd24f-b249-4cb0-bde9-93b5f6ed5b24">Ticketing System</a>|
+| Ticket Escalation Process(1) | <a href="https://github.com/user-attachments/assets/e36bb1be-0905-488c-8005-f5bd8e66e889">Ticketing System</a>|
+| Ticket Escalation Process(2) | <a href="https://github.com/user-attachments/assets/11835fd4-1492-4aad-999d-c016765743cd">Ticketing System</a>|
+|RDP (1)| <a href="https://github.com/user-attachments/assets/7344cd63-5fb8-461e-91c6-302cce547265">">Remote Desktop Support</a>|
+|RDP (2)| <a href="https://github.com/user-attachments/assets/195dbfe1-f8e4-493c-9e51-2c0dd6f8823c">Remote Desktop Support</a>|
+|RDP (3)| <a href="https://github.com/user-attachments/assets/6c6d1b3e-1c30-474d-951b-89a47141b44d">Remote Desktop Support</a>|
+|RDP (4)| <a href="https://github.com/user-attachments/assets/ade8cbc6-7491-4ab2-9bda-6bd660b7703b">Remote Desktop Support</a>|
+|RDP (5)| <a href="https://github.com/user-attachments/assets/d88a5bbb-4de2-4f7e-a533-79ff31fe939a">Remote Desktop Support</a>|
+|RDP (6)| <a href="https://github.com/user-attachments/assets/752eaec8-4ce0-4ffb-ba30-6b400678e442">Remote Desktop Support</a>|
+|RDP (7)| <a href="https://github.com/user-attachments/assets/1b7e3d87-971d-457b-a877-fff0ff7b455c">Remote Desktop Support</a>|
 
 
 
