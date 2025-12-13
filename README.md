@@ -34,16 +34,16 @@ Security+, CySA+ certified. Experienced in supporting users, resolving technical
 | Created Security Groups: In Active Directory Users and Computers, open the New Group window, enter the Group name, add a description if needed, select the Group Scope (Domain Local / Global / Universal) and Group Type (Security / Distribution), then click OK to create the group.| <a href="https://github.com/user-attachments/assets/5c7eb8c2-4018-4d32-b2d2-0610cbd04864">Active Directory|
 | Created Organizational Units: In Active Directory Users and Computers, navigate to: NetworkerChuck.local → USA → Right-click → New → Organizational Unit. Enter the OU name, ensure Protect container from accidental deletion is checked, then click OK.| <a href="https://github.com/user-attachments/assets/487686ff-b7bc-458c-805e-20d112879945">Active Directory|
 | Creating a Ticket: Open Spiceworks Help Desk → Click New Ticket. Fill in the required fields: Organization → select NetworkerChuck Contact → choose the user submitting the issue Summary → enter the issue title (e.g., “Monitor isn’t working (Computer01)”) Description → provide detailed information about the problem and availability Assignee → select the technician Priority → choose the appropriate level (High / Medium / Low) Category → choose the issue type (e.g., Hardware) (Optional) Attach a file if needed → click Create to finalize the ticket.|<a href="https://github.com/user-attachments/assets/8781a7fc-a36c-4092-a1cc-97017a03700b">Ticketing System</a>|
-| Ticket Closure Checklist | <a href="https://github.com/user-attachments/assets/4c6fd24f-b249-4cb0-bde9-93b5f6ed5b24">Ticketing System</a>|
-| Ticket Escalation Process(1) | <a href="https://github.com/user-attachments/assets/e36bb1be-0905-488c-8005-f5bd8e66e889">Ticketing System</a>|
-| Ticket Escalation Process(2) | <a href="https://github.com/user-attachments/assets/11835fd4-1492-4aad-999d-c016765743cd">Ticketing System</a>|
-|RDP (1)| <a href="https://github.com/user-attachments/assets/7344cd63-5fb8-461e-91c6-302cce547265">">Remote Desktop Support</a>|
-|RDP (2)| <a href="https://github.com/user-attachments/assets/195dbfe1-f8e4-493c-9e51-2c0dd6f8823c">Remote Desktop Support</a>|
-|RDP (3)| <a href="https://github.com/user-attachments/assets/6c6d1b3e-1c30-474d-951b-89a47141b44d">Remote Desktop Support</a>|
-|RDP (4)| <a href="https://github.com/user-attachments/assets/ade8cbc6-7491-4ab2-9bda-6bd660b7703b">Remote Desktop Support</a>|
-|RDP (5)| <a href="https://github.com/user-attachments/assets/d88a5bbb-4de2-4f7e-a533-79ff31fe939a">Remote Desktop Support</a>|
-|RDP (6)| <a href="https://github.com/user-attachments/assets/752eaec8-4ce0-4ffb-ba30-6b400678e442">Remote Desktop Support</a>|
-|RDP (7)| <a href="https://github.com/user-attachments/assets/1b7e3d87-971d-457b-a877-fff0ff7b455c">Remote Desktop Support</a>|
+| Ticket Closure Checklist: Open the resolved ticket in Spiceworks Help Desk, review the conversation history to confirm the issue is fixed, document the resolution in an internal note, verify the correct assignee, priority, and status, and prepare the ticket for closure after user confirmation.| <a href="https://github.com/user-attachments/assets/4c6fd24f-b249-4cb0-bde9-93b5f6ed5b24">Ticketing System</a>|
+| Ticket Escalation Process(Step 1): Open the Spiceworks Help Desk dashboard and select the ticket titled “Can’t access Financial Database (FinDB)”. Review the ticket details, including the user request, priority, category, assigned technician, and internal comments indicating the need for escalation and read-only database access. | <a href="https://github.com/user-attachments/assets/e36bb1be-0905-488c-8005-f5bd8e66e889">Ticketing System</a>|
+| Ticket Escalation Process(Step 2): Click the Edit (pencil) icon on the selected ticket. Update the ticket summary and description if needed to clarify the issue, confirm escalation details, and then click Save to apply the changes and continue the escalation workflow. | <a href="https://github.com/user-attachments/assets/11835fd4-1492-4aad-999d-c016765743cd">Ticketing System</a>|
+|RDP (Step 1): | <a href="https://github.com/user-attachments/assets/7344cd63-5fb8-461e-91c6-302cce547265">Remote Desktop Support</a>|
+|RDP (Step 2): | <a href="https://github.com/user-attachments/assets/195dbfe1-f8e4-493c-9e51-2c0dd6f8823c">Remote Desktop Support</a>|
+|RDP (Step 3): | <a href="https://github.com/user-attachments/assets/6c6d1b3e-1c30-474d-951b-89a47141b44d">Remote Desktop Support</a>|
+|RDP (Step 4): | <a href="https://github.com/user-attachments/assets/ade8cbc6-7491-4ab2-9bda-6bd660b7703b">Remote Desktop Support</a>|
+|RDP (Step 5): | <a href="https://github.com/user-attachments/assets/d88a5bbb-4de2-4f7e-a533-79ff31fe939a">Remote Desktop Support</a>|
+|RDP (Step 6): | <a href="https://github.com/user-attachments/assets/752eaec8-4ce0-4ffb-ba30-6b400678e442">Remote Desktop Support</a>|
+|RDP (Step 7): | <a href="https://github.com/user-attachments/assets/1b7e3d87-971d-457b-a877-fff0ff7b455c">Remote Desktop Support</a>|
 
 
 
